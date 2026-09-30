@@ -1,2 +1,6 @@
 streamlit
 scikit-learn
+tensorflow
+music21
+numpy
+scipy
